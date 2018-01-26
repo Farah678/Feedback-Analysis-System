@@ -13,7 +13,7 @@ visualize it to see the performance of their institute.
 
 Installation:
 Clone or Download Feedback Analysis System from https://github.com/Farah678/feedback-analysis-system 
-Unzip the project files by extracting the zipped folder feedback_system.rar. 
+Unzip the project files by extracting the zipped folder feedback-analysis-system.rar. 
 Import the database sql file ‘database.sql’ on your server. 
 Upload the project files in the folder ‘project files’ on the server and load the page 'index.php' included in 'php' folder.
 
